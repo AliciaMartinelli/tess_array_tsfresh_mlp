@@ -1,0 +1,17 @@
+.DS_Store
+settings.json
+raw
+train
+val
+test
+tess_filenames_train.npy
+tess_filenames_val.npy
+tess_filenames_test.npy
+X_train_tess.npy
+y_train_tess.npy
+X_val_tess.npy
+y_val_tess.npy
+X_test_tess.npy
+y_test_tess.npy
+all_extracted_features.txt
+selected_features.txt
