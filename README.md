@@ -13,8 +13,8 @@ kepler_array_tsfresh_mlp/
 ├── feature_extraction.py      # Feature extraction with TSFresh library to generate the train, val and test datasets
 ├── gbt.py                     # GBT training and evaluation with Optuna
 ├── mlp.py                     # MLP training and evaluation with Optuna
-├── tess_gbt.pkl             # Best GBT model
-├── tess_mlp.h3              # Best MLP model
+├── tess_gbt.pkl               # Best GBT model
+├── tess_mlp.h3                # Best MLP model
 └── README.md                  # This file
 └── .gitignore                 # Git ignore rules
 ```
